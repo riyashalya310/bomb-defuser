@@ -1,0 +1,29 @@
+#backgroundContainer{
+    background-color: #00bafc;
+    height: 100vh;
+    text-align: center;
+    align-items: center;
+    padding: 50px;
+}
+.image{
+    height: 250px;
+    width: 200px;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#inputText{
+    width: 250px;
+    border-radius: 100px;
+    background-color: white;
+    border-width: 0px;
+    padding: 8px;
+    font-size: large;
+    text-align: center;
+
+}
+.outputText{
+    font-size: 50px;
+    color: white;
+    font-family: "Roboto";
+}
